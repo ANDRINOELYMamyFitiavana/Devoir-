@@ -51,7 +51,7 @@ make
 ```
 sudo make install
 ```
-
+![image final](https://github.com/ANDRINOELYMamyFitiavana/Devoir/blob/main/apache.png)
 
 PHP
 
