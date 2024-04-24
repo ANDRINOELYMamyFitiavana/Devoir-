@@ -17,6 +17,8 @@ sudo make
 ```
 sudo make install
 ```
+![image final apres la telechargement](https://github.com/ANDRINOELYMamyFitiavana/Devoir/blob/b1f183929ec93232c945f61c6c00a0caf18d68d4/mysql.png)
+
 
 
 APACHE
